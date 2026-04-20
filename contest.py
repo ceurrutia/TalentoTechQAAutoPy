@@ -1,3 +1,4 @@
+from calculadora.operaciones import sumar
 import pytest
 
 @pytest.fixture
